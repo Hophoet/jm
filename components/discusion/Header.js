@@ -10,7 +10,6 @@ class Header extends React.Component {
     render() { 
         return ( 
             <View style={styles.container}>
-                
                 <Ionicons  name='md-list-outline' color='white' size={30}/>
                 <View style={styles.secondContainer}>
                     <Text style={styles.title}>JM</Text>
@@ -24,10 +23,12 @@ export default Header;
 
 const styles = StyleSheet.create({
     container:{
-        backgroundColor:'gray',
+        flex:1,
         flexDirection:'row',
-        paddingHorizontal:Dimensions.get('window').width/20,
         alignItems:'center',
+        paddingHorizontal:20,
+        backgroundColor:'gray',
+        
     },
     secondContainer:{
         justifyContent:'center',
