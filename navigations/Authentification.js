@@ -5,6 +5,7 @@ import {createAppContainer, createSwitchNavigator } from 'react-navigation';
 import SignIn from '../screens/authentification/SignIn'
 import SignUp from '../screens/authentification/SignUp'
 import Main from '../screens/Main'
+import Message from '../screens/Message'
 
 const AuthNavigator = createSwitchNavigator({
     SignIn:{
@@ -16,6 +17,9 @@ const AuthNavigator = createSwitchNavigator({
     },
     Main:{
         screen:Main
+    },
+    Message:{
+      screen:Message
     }
   }, {initialRouteName:'SignUp'})
 
