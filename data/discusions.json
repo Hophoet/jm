@@ -2,31 +2,68 @@
     {
         "id":1,
         "user":"alii",
+        "phoneNumber":"+229 83 8389 938",
+        "messages":[
+            {"id":9, "content":"hi, how?", "moment":30494, "sender_id":2, "receiver_id":1},
+            {"id":7, "content":"fine, what about you?", "moment":700, "sender_id":5, "receiver_id":2}
+        ],
         "lastMessage":"How are you?"
+       
     },
     {
         "id":2,
         "user":"zorr",
-        "lastMessage":"haahh"
+        "phoneNumber":"+229 83 8389 938",
+        "messages":[
+            {"id":9, "content":"hi, how?", "moment":30494, "sender_id":2, "receiver_id":1},
+            {"id":7, "content":"fine, what about you?", "moment":700, "sender_id":5, "receiver_id":2}
+        ],
+        "lastMessage":"dkl"
     },
     {
         "id":4,
         "user":"alex",
+        "phoneNumber":"+229 83 8389 938",
+        "messages":[
+            {"id":9, "content":"hi, how?", "moment":30494, "sender_id":2, "receiver_id":1},
+            {"id":7, "content":"fine, what about you?", "moment":700, "sender_id":5, "receiver_id":2}
+        ],
         "lastMessage":"right"
     },
     {
         "id":5,
         "user":"sandra",
+        "phoneNumber":"+229 83 8389 938",
+        "messages":[
+            {"id":9, "content":"hi, how?", "moment":30494, "sender_id":2, "receiver_id":1},
+            {"id":7, "content":"fine, what about you?", "moment":700, "sender_id":5, "receiver_id":2}
+        ],
         "lastMessage":"love?"
     },
     {
         "id":6,
         "user":"alicia",
+        "phoneNumber":"+229 83 8389 938",
+        "messages":[
+            {"id":9, "content":"hi, how? after the meeting i would like to meet with your, a have something to tell your!", "moment":30494, "sender_id":2, "receiver_id":1},
+            {"id":7, "content":"fine, what about you?", "moment":700, "sender_id":6, "receiver_id":2},
+            {"id":3, "content":"how?", "moment":700, "sender_id":6, "receiver_id":2},
+            {"id":0, "content":"i will call you!", "moment":700, "sender_id":2, "receiver_id":2},
+            {"id":22, "content":"ok right, greet me your mum", "moment":700, "sender_id":6, "receiver_id":2},
+            {"id":78, "content":"ok i will greet her for you. Bro i forgot it what about our PYTHON PCAP Certificatioin", "moment":700, "sender_id":2, "receiver_id":2},
+            {"id":37, "content":"We must pass it this time!", "moment":700, "sender_id":2, "receiver_id":2},
+            {"id":47, "content":"I are right bro", "moment":700, "sender_id":6, "receiver_id":2}
+        ],
         "lastMessage":"forget!"
     },
     {
         "id":7,
         "user":"hophoet",
+        "phoneNumber":"+229 83 8389 938",
+        "messages":[
+            {"id":9, "content":"hi, how?", "moment":30494, "sender_id":2, "receiver_id":1},
+            {"id":7, "content":"fine, what about you?", "moment":700, "sender_id":5, "receiver_id":2}
+        ],
         "lastMessage":"you are great!!!"
     }
 ]
