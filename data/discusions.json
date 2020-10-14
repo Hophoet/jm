@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "user":"alii",
+        "lastMessage":"How are you?"
+    },
+    {
+        "id":2,
+        "user":"zorr",
+        "lastMessage":"haahh"
+    },
+    {
+        "id":4,
+        "user":"alex",
+        "lastMessage":"right"
+    },
+    {
+        "id":5,
+        "user":"sandra",
+        "lastMessage":"love?"
+    },
+    {
+        "id":6,
+        "user":"alicia",
+        "lastMessage":"forget!"
+    },
+    {
+        "id":7,
+        "user":"hophoet",
+        "lastMessage":"you are great!!!"
+    }
+]
