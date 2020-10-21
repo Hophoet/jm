@@ -18,7 +18,7 @@ export default class Main extends React.Component {
         // console.log(item)
         return ( 
             <TouchableOpacity 
-                onPress={ () => {this.__navigate_to('Discussion', item)}}
+                onPress={ () => {this.__navigate_to('Message', item)}}
                 activeOpacity={.7} style={styles.container}>
                 <View style={styles.iconContainer}>
                     <Ionicons name='person' color='white' size={25}/>
